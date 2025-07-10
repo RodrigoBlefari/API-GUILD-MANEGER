@@ -6,7 +6,7 @@
       "imagem": "/src/assets/T1-Cristal-do-Caos.jpg",
       "classe": "T1",
       "cor": "blue",
-      "filaJogadores": [1, 2, 3]
+      "filaJogadores": ["1", "2", "3"]
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "imagem": "/src/assets/T2-Pena-de-Condor.jpg",
       "classe": "T2",
       "cor": "red",
-      "filaJogadores": [1, 2, 3]
+      "filaJogadores": ["1", "2", "3"]
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "imagem": "/src/assets/T3-Chama-de-Condor.jpg",
       "classe": "T3",
       "cor": "purple",
-      "filaJogadores": [1, 2, 3]
+      "filaJogadores": ["1", "2", "3"]
     }
   ],
   "players": [

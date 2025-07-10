@@ -133,6 +133,93 @@
       "totalItensRecebidos": 0,
       "itensRecebidos": {},
       "admin": false
+    },
+    {
+      "id": "10",
+      "nomePersonagem": "POVEDA",
+      "dono": "Luciano ",
+      "classe": "ELF",
+      "sigla": "ELF",
+      "nivel": 272,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    },
+    {
+      "id": "11",
+      "nomePersonagem": "Maythem",
+      "dono": "Maythem ",
+      "classe": "KNIGHT",
+      "sigla": "KINA",
+      "nivel": 287,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    },
+    {
+      "id": "12",
+      "nomePersonagem": "POVEDA",
+      "dono": "Luciano ",
+      "classe": "ELF",
+      "sigla": "ELF",
+      "nivel": 272,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    },
+    {
+      "id": "13",
+      "nomePersonagem": "KABAL",
+      "dono": "KABAL ",
+      "classe": "ELF",
+      "sigla": "ELF",
+      "nivel": 272,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    }
+    ,
+    {
+      "id": "14",
+      "nomePersonagem": "GARDENAL",
+      "dono": "GARDENAL ",
+      "classe": "GOVERNANTE",
+      "sigla": "GOV",
+      "nivel": 261,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    }
+     ,
+    {
+      "id": "15",
+      "nomePersonagem": "Lotus",
+      "dono": "Lotus ",
+      "classe": "WIZARD",
+      "sigla": "WIZ",
+      "nivel": 260,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    }
+    ,
+    {
+      "id": "16",
+      "nomePersonagem": "m4r0f4",
+      "dono": "m4r0f4 ",
+      "classe": "WIZARD",
+      "sigla": "WIZ",
+      "nivel": 260,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
     }
   ],
   "admins": [
@@ -154,7 +241,7 @@
       "nivel": 300,
       "ultimaRecebida": ""
     },
-        {
+    {
       "id": 3,
       "nomePersonagem": "RaphaBlefs",
       "dono": "Raphael Blefari",

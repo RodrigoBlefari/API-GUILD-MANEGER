@@ -6,7 +6,7 @@
       "imagem": "/src/assets/T1-Cristal-do-Caos.jpg",
       "classe": "T1",
       "cor": "blue",
-      "filaJogadores": ["1", "2", "3"]
+      "filaJogadores": ["1", "2", "3", "6", "7"]
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "imagem": "/src/assets/T2-Pena-de-Condor.jpg",
       "classe": "T2",
       "cor": "red",
-      "filaJogadores": ["1", "2", "3"]
+      "filaJogadores": ["1", "2", "3", "4", "5", "6", "7"]
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "imagem": "/src/assets/T3-Chama-de-Condor.jpg",
       "classe": "T3",
       "cor": "purple",
-      "filaJogadores": ["1", "2", "3"]
+      "filaJogadores": ["1", "2", "3", "4", "5", "6", "7"]
     }
   ],
   "players": [
@@ -57,6 +57,54 @@
       "classe": "GOVERNANTE",
       "sigla": "GOV",
       "nivel": 280,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    },
+    {
+      "id": "4",
+      "nomePersonagem": "DJONYZIN",
+      "dono": "JONES SOUZA",
+      "classe": "GOVERNANTE",
+      "sigla": "KINA",
+      "nivel": 243,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    },
+    {
+      "id": "5",
+      "nomePersonagem": "TRETA",
+      "dono": "JONES SOUZA",
+      "classe": "WIZARD",
+      "sigla": "WIZ",
+      "nivel": 290,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    },
+    {
+      "id": "6",
+      "nomePersonagem": "Luffy",
+      "dono": "Christian Moretto",
+      "classe": "WIZARD",
+      "sigla": "WIZ",
+      "nivel": 291,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    },
+    {
+      "id": "7",
+      "nomePersonagem": "PoVeDa",
+      "dono": "Diego Poveda",
+      "classe": "KNIGHT",
+      "sigla": "KINA",
+      "nivel": 270,
       "ultimaRecebida": null,
       "totalItensRecebidos": 0,
       "itensRecebidos": {},

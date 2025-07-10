@@ -6,7 +6,7 @@
       "imagem": "/src/assets/T1-Cristal-do-Caos.jpg",
       "classe": "T1",
       "cor": "blue",
-      "filaJogadores": ["1", "2", "3", "6", "7", "8"]
+      "filaJogadores": ["1", "2", "3", "6", "7", "8", "9"]
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "imagem": "/src/assets/T2-Pena-de-Condor.jpg",
       "classe": "T2",
       "cor": "red",
-      "filaJogadores": ["1", "2", "3", "4", "5", "6", "7", "8"]
+      "filaJogadores": ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "imagem": "/src/assets/T3-Chama-de-Condor.jpg",
       "classe": "T3",
       "cor": "purple",
-      "filaJogadores": ["1", "2", "3", "4", "5", "6", "7", "8"]
+      "filaJogadores": ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
     }
   ],
   "players": [
@@ -117,6 +117,18 @@
       "classe": "ELF",
       "sigla": "ELF",
       "nivel": 280,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    },
+    {
+      "id": "9",
+      "nomePersonagem": "Cobalto",
+      "dono": "Wellington ",
+      "classe": "KNIGHT",
+      "sigla": "KINA",
+      "nivel": 274,
       "ultimaRecebida": null,
       "totalItensRecebidos": 0,
       "itensRecebidos": {},

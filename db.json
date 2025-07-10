@@ -49,7 +49,7 @@
       "itensRecebidos": {}
     },
     {
-      "id": "2",
+      "id": "3",
       "nomePersonagem": "RaphaBlefs",
       "dono": "Raphael Blefari",
       "classe": "GOVERNANTE",
@@ -71,7 +71,7 @@
       "ultimaRecebida": ""
     },
     {
-      "id": 11,
+      "id": 2,
       "nomePersonagem": "METRATOR",
       "dono": "Daniel Santana",
       "classe": "KNIGHT",

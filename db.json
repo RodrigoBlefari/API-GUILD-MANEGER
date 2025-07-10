@@ -6,7 +6,7 @@
       "imagem": "/src/assets/T1-Cristal-do-Caos.jpg",
       "classe": "T1",
       "cor": "blue",
-      "filaJogadores": ["7c46"]
+      "filaJogadores": [1, 2, 3]
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "imagem": "/src/assets/T2-Pena-de-Condor.jpg",
       "classe": "T2",
       "cor": "red",
-      "filaJogadores": ["7c46"]
+      "filaJogadores": [1, 2, 3]
     },
     {
       "id": 3,
@@ -22,12 +22,12 @@
       "imagem": "/src/assets/T3-Chama-de-Condor.jpg",
       "classe": "T3",
       "cor": "purple",
-      "filaJogadores": ["7c46"]
+      "filaJogadores": [1, 2, 3]
     }
   ],
   "players": [
     {
-      "id": "7c46",
+      "id": "1",
       "nomePersonagem": "DjRandom",
       "dono": "Rodrigo Blefari",
       "classe": "WIZARD",
@@ -38,19 +38,26 @@
       "itensRecebidos": {}
     },
     {
-      "id": 4,
-      "nomePersonagem": "Valtor",
-      "dono": "Vitor",
+      "id": "2",
+      "nomePersonagem": "METRATOR",
+      "dono": "Daniel Santana",
+      "classe": "KNIGHT",
+      "sigla": "KINA",
+      "nivel": 300,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {}
+    },
+    {
+      "id": "2",
+      "nomePersonagem": "RaphaBlefs",
+      "dono": "Raphael Blefari",
       "classe": "GOVERNANTE",
       "sigla": "GOV",
-      "nivel": 400,
-      "ultimaRecebida": "2025-05-15T11:00:00Z",
-      "totalItensRecebidos": 4,
-      "itensRecebidos": {
-        "1": 1,
-        "2": 2,
-        "4": 1
-      }
+      "nivel": 280,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {}
     }
   ],
   "admins": [

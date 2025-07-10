@@ -136,18 +136,6 @@
     },
     {
       "id": "10",
-      "nomePersonagem": "POVEDA",
-      "dono": "Luciano ",
-      "classe": "ELF",
-      "sigla": "ELF",
-      "nivel": 272,
-      "ultimaRecebida": null,
-      "totalItensRecebidos": 0,
-      "itensRecebidos": {},
-      "admin": false
-    },
-    {
-      "id": "11",
       "nomePersonagem": "Maythem",
       "dono": "Maythem ",
       "classe": "KNIGHT",
@@ -159,7 +147,7 @@
       "admin": false
     },
     {
-      "id": "12",
+      "id": "11",
       "nomePersonagem": "POVEDA",
       "dono": "Luciano ",
       "classe": "ELF",
@@ -171,7 +159,7 @@
       "admin": false
     },
     {
-      "id": "13",
+      "id": "12",
       "nomePersonagem": "KABAL",
       "dono": "KABAL ",
       "classe": "ELF",
@@ -184,7 +172,7 @@
     }
     ,
     {
-      "id": "14",
+      "id": "13",
       "nomePersonagem": "GARDENAL",
       "dono": "GARDENAL ",
       "classe": "GOVERNANTE",
@@ -197,7 +185,7 @@
     }
      ,
     {
-      "id": "15",
+      "id": "14",
       "nomePersonagem": "Lotus",
       "dono": "Lotus ",
       "classe": "WIZARD",
@@ -210,11 +198,24 @@
     }
     ,
     {
-      "id": "16",
+      "id": "15",
       "nomePersonagem": "m4r0f4",
       "dono": "m4r0f4 ",
       "classe": "WIZARD",
       "sigla": "WIZ",
+      "nivel": 260,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    }
+    ,
+    {
+      "id": "16",
+      "nomePersonagem": "PateHeiu",
+      "dono": "PateHeiu",
+      "classe": "ELF",
+      "sigla": "ELF",
       "nivel": 260,
       "ultimaRecebida": null,
       "totalItensRecebidos": 0,

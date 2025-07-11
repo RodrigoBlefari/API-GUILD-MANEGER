@@ -8,7 +8,6 @@
       "cor": "blue",
       "filaJogadores": [
         "10",
-        "3",
         "9",
         "12",
         "14",
@@ -83,9 +82,9 @@
       "classe": "WIZARD",
       "sigla": "WIZ",
       "nivel": 285,
-      "ultimaRecebida": "2025-07-11T22:30:00Z",
-      "totalItensRecebidos": 1,
-      "itensRecebidos": { "1": 1 },
+      "ultimaRecebida": "",
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
       "admin": true
     },
     {
@@ -95,9 +94,9 @@
       "classe": "KNIGHT",
       "sigla": "KINA",
       "nivel": 300,
-      "ultimaRecebida": null,
-      "totalItensRecebidos": 0,
-      "itensRecebidos": {},
+      "ultimaRecebida": "2025-07-10T19:30:00Z",
+      "totalItensRecebidos": 1,
+      "itensRecebidos": { "1": 1 },
       "admin": true
     },
     {

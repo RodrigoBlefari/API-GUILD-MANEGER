@@ -8,7 +8,6 @@
       "cor": "blue",
       "filaJogadores": [
         "10",
-        "9",
         "12",
         "14",
         "6",
@@ -20,7 +19,8 @@
         "17",
         "16",
         "7",
-        "2"
+        "2",
+        "9"
       ]
     },
     {
@@ -178,9 +178,9 @@
       "classe": "KNIGHT",
       "sigla": "KINA",
       "nivel": 274,
-      "ultimaRecebida": null,
-      "totalItensRecebidos": 0,
-      "itensRecebidos": {},
+      "ultimaRecebida": "2025-07-11T12:30:00Z",
+      "totalItensRecebidos": 1,
+      "itensRecebidos": { "1": 1 },
       "admin": false
     },
     {
@@ -314,6 +314,13 @@
       "itemId": 1,
       "playerId": "2",
       "timestamp": "2025-07-10T21:30:00Z",
+      "tipo": "recebimento"
+    },
+    {
+      "id": "1",
+      "itemId": 1,
+      "playerId": "9",
+      "timestamp": "2025-07-11T12:30:00Z",
       "tipo": "recebimento"
     }
   ]

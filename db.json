@@ -6,7 +6,23 @@
       "imagem": "/src/assets/T1-Cristal-do-Caos.jpg",
       "classe": "T1",
       "cor": "blue",
-      "filaJogadores": ["1", "2", "3", "6", "7", "8", "9"]
+      "filaJogadores": [
+        "10",
+        "3",
+        "9",
+        "12",
+        "14",
+        "6",
+        "13",
+        "15",
+        "1",
+        "8",
+        "3",
+        "17",
+        "16",
+        "7",
+        "2"
+      ]
     },
     {
       "id": 2,
@@ -14,7 +30,24 @@
       "imagem": "/src/assets/T2-Pena-de-Condor.jpg",
       "classe": "T2",
       "cor": "red",
-      "filaJogadores": ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+      "filaJogadores": [
+        "12",
+        "9",
+        "8",
+        "16",
+        "1",
+        "14",
+        "10",
+        "15",
+        "2",
+        "5",
+        "17",
+        "3",
+        "11",
+        "13",
+        "6",
+        "4"
+      ]
     },
     {
       "id": 3,
@@ -22,7 +55,24 @@
       "imagem": "/src/assets/T3-Chama-de-Condor.jpg",
       "classe": "T3",
       "cor": "purple",
-      "filaJogadores": ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+      "filaJogadores": [
+        "10",
+        "2",
+        "12",
+        "3",
+        "8",
+        "17",
+        "11",
+        "6",
+        "1",
+        "16",
+        "14",
+        "4",
+        "9",
+        "13",
+        "15",
+        "5"
+      ]
     }
   ],
   "players": [
@@ -33,9 +83,9 @@
       "classe": "WIZARD",
       "sigla": "WIZ",
       "nivel": 285,
-      "ultimaRecebida": null,
-      "totalItensRecebidos": 0,
-      "itensRecebidos": {},
+      "ultimaRecebida": "2025-07-11T22:30:00Z",
+      "totalItensRecebidos": 1,
+      "itensRecebidos": { "1": 1 },
       "admin": true
     },
     {
@@ -169,8 +219,7 @@
       "totalItensRecebidos": 0,
       "itensRecebidos": {},
       "admin": false
-    }
-    ,
+    },
     {
       "id": "13",
       "nomePersonagem": "GARDENAL",
@@ -182,8 +231,7 @@
       "totalItensRecebidos": 0,
       "itensRecebidos": {},
       "admin": false
-    }
-     ,
+    },
     {
       "id": "14",
       "nomePersonagem": "Lotus",
@@ -195,8 +243,7 @@
       "totalItensRecebidos": 0,
       "itensRecebidos": {},
       "admin": false
-    }
-    ,
+    },
     {
       "id": "15",
       "nomePersonagem": "m4r0f4",
@@ -208,8 +255,7 @@
       "totalItensRecebidos": 0,
       "itensRecebidos": {},
       "admin": false
-    }
-    ,
+    },
     {
       "id": "16",
       "nomePersonagem": "PateHeiu",
@@ -217,6 +263,18 @@
       "classe": "ELF",
       "sigla": "ELF",
       "nivel": 260,
+      "ultimaRecebida": null,
+      "totalItensRecebidos": 0,
+      "itensRecebidos": {},
+      "admin": false
+    },
+    {
+      "id": "17",
+      "nomePersonagem": "SHAKA",
+      "dono": "SHAKA",
+      "classe": "KNIGHT",
+      "sigla": "KINA",
+      "nivel": 282,
       "ultimaRecebida": null,
       "totalItensRecebidos": 0,
       "itensRecebidos": {},
@@ -255,8 +313,8 @@
     {
       "id": "1",
       "itemId": 1,
-      "playerId": 1,
-      "timestamp": "2025-05-18T14:30:00Z",
+      "playerId": "2",
+      "timestamp": "2025-07-10T21:30:00Z",
       "tipo": "recebimento"
     }
   ]

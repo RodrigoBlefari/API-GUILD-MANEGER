@@ -55,7 +55,6 @@
       "classe": "T3",
       "cor": "purple",
       "filaJogadores": [
-        "10",
         "2",
         "12",
         "3",
@@ -70,7 +69,8 @@
         "9",
         "13",
         "15",
-        "5"
+        "5",
+        "10"
       ]
     }
   ],
@@ -185,14 +185,14 @@
     },
     {
       "id": "10",
-      "nomePersonagem": "Maythem",
-      "dono": "Maythem ",
+      "nomePersonagem": "Mayhem",
+      "dono": "Mathem ",
       "classe": "KNIGHT",
       "sigla": "KINA",
       "nivel": 287,
-      "ultimaRecebida": null,
-      "totalItensRecebidos": 0,
-      "itensRecebidos": {},
+      "ultimaRecebida": "2025-07-12T12:30:00Z",
+      "totalItensRecebidos": 1,
+      "itensRecebidos": { "3": 1 },
       "admin": false
     },
     {
@@ -321,6 +321,13 @@
       "itemId": 1,
       "playerId": "9",
       "timestamp": "2025-07-11T12:30:00Z",
+      "tipo": "recebimento"
+    },
+        {
+      "id": "1",
+      "itemId": 3,
+      "playerId": "10",
+      "timestamp": "2025-07-12T12:30:00Z",
       "tipo": "recebimento"
     }
   ]

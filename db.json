@@ -8,7 +8,6 @@
       "cor": "blue",
       "filaJogadores": [
         "10",
-        "12",
         "14",
         "6",
         "13",
@@ -21,7 +20,8 @@
         "7",
         "2",
         "9",
-        "5"
+        "5",
+        "12"
       ]
     },
     {
@@ -216,8 +216,11 @@
       "sigla": "ELF",
       "nivel": 272,
       "ultimaRecebida": "2025-07-13T12:30:00Z",
-      "totalItensRecebidos": 1,
-      "itensRecebidos": { "2": 2 },
+      "totalItensRecebidos": 2,
+      "itensRecebidos": { 
+        "1": 1, 
+        "2": 2 
+      },
       "admin": false
     },
     {
@@ -318,17 +321,31 @@
       "tipo": "recebimento"
     },
     {
-      "id": "1",
+      "id": "2",
       "itemId": 1,
       "playerId": "9",
       "timestamp": "2025-07-11T12:30:00Z",
       "tipo": "recebimento"
     },
     {
-      "id": "1",
+      "id": "3",
       "itemId": 3,
       "playerId": "10",
       "timestamp": "2025-07-12T12:30:00Z",
+      "tipo": "recebimento"
+    },
+    {
+      "id": "4",
+      "itemId": 1,
+      "playerId": "12",
+      "timestamp": "2025-07-13T12:30:00Z",
+      "tipo": "recebimento"
+    },
+    {
+      "id": "5",
+      "itemId": 2,
+      "playerId": "12",
+      "timestamp": "2025-07-13T12:30:00Z",
       "tipo": "recebimento"
     }
   ]

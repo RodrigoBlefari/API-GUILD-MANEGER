@@ -20,7 +20,8 @@
         "16",
         "7",
         "2",
-        "9"
+        "9",
+        "5"
       ]
     },
     {
@@ -30,7 +31,6 @@
       "classe": "T2",
       "cor": "red",
       "filaJogadores": [
-        "12",
         "9",
         "8",
         "16",
@@ -45,7 +45,8 @@
         "11",
         "13",
         "6",
-        "4"
+        "4",
+        "12"
       ]
     },
     {
@@ -130,8 +131,8 @@
       "classe": "WIZARD",
       "sigla": "WIZ",
       "nivel": 290,
-      "ultimaRecebida": null,
-      "totalItensRecebidos": 0,
+      "ultimaRecebida": "",
+      "totalItensRecebidos": null,
       "itensRecebidos": {},
       "admin": false
     },
@@ -166,9 +167,9 @@
       "classe": "ELF",
       "sigla": "ELF",
       "nivel": 280,
-      "ultimaRecebida": null,
-      "totalItensRecebidos": 0,
-      "itensRecebidos": {},
+      "ultimaRecebida": "2025-07-11T12:30:00Z",
+      "totalItensRecebidos": 1,
+      "itensRecebidos": { "1": 1 },
       "admin": false
     },
     {
@@ -214,9 +215,9 @@
       "classe": "ELF",
       "sigla": "ELF",
       "nivel": 272,
-      "ultimaRecebida": null,
-      "totalItensRecebidos": 0,
-      "itensRecebidos": {},
+      "ultimaRecebida": "2025-07-13T12:30:00Z",
+      "totalItensRecebidos": 1,
+      "itensRecebidos": { "2": 2 },
       "admin": false
     },
     {
@@ -323,7 +324,7 @@
       "timestamp": "2025-07-11T12:30:00Z",
       "tipo": "recebimento"
     },
-        {
+    {
       "id": "1",
       "itemId": 3,
       "playerId": "10",
